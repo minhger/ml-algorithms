@@ -1,27 +1,27 @@
 -----------------------------------------------------------------------------------------------------------------
 DEUTSCH - Gebrauchshinweise 
 -----------------------------------------------------------------------------------------------------------------
-Zum Start des Tools wird die Anwendung visualizer.exe geöffnet. 
+Zum Start des Tools wird die Anwendung visualizer.exe geÃ¶ffnet. 
  
 Clusteranalyse 
-Für eine Clusteranalyse müssen Punkte in einer oder mehr Farben in die Zeichenfläche eingefügt werden. 
-Anschließend müssen die für den Algorithmus notwendigen Parameterwerte / Verfahren eingegeben werden. 
-Daraufhin können die Punkte mit Klick auf den Algorithmus gruppiert werden. Die neue Farbfüllung der 
-Punkte zeigt die durch den Algorithmus bestimmte Gruppenzugehörigkeit.
+FÃ¼r eine Clusteranalyse mÃ¼ssen Punkte in einer oder mehr Farben in die ZeichenflÃ¤che eingefÃ¼gt werden. 
+AnschlieÃŸend mÃ¼ssen die fÃ¼r den Algorithmus notwendigen Parameterwerte / Verfahren eingegeben werden. 
+Daraufhin kÃ¶nnen die Punkte mit Klick auf den Algorithmus gruppiert werden. Die neue FarbfÃ¼llung der 
+Punkte zeigt die durch den Algorithmus bestimmte GruppenzugehÃ¶rigkeit.
 
 Klassifizierung
-Trainingsdaten werden wie bei der Clusteranalyse in die Zeichenfläche eingefügt. 
-Für die Kennzeichnung verschiedener Klassen müssen unterschiedliche Farben genutzt werden. 
-Dabei gehören Punkte einer Farbe einer Klasse an. Für die Klassifizierung von Testdaten müssen Punkte 
-mit Klick auf den Check-Button Test Data eingefügt werden werden. Anschließend müssen die für 
-den Algorithmus notwendigen Parameterwerte  eingegeben werden. Daraufhin können die Testdaten mit 
-Klick auf den Algorithmus klassifiziert werden. Die neue Farfüllung der Punkte zeigt die durch den 
-Algorithmus bestimmte Klassenzugehörigkeit.
+Trainingsdaten werden wie bei der Clusteranalyse in die ZeichenflÃ¤che eingefÃ¼gt. 
+FÃ¼r die Kennzeichnung verschiedener Klassen mÃ¼ssen unterschiedliche Farben genutzt werden. 
+Dabei gehÃ¶ren Punkte einer Farbe einer Klasse an. FÃ¼r die Klassifizierung von Testdaten mÃ¼ssen Punkte 
+mit Klick auf den Check-Button Test Data eingefÃ¼gt werden werden. AnschlieÃŸend mÃ¼ssen die fÃ¼r 
+den Algorithmus notwendigen Parameterwerte  eingegeben werden. Daraufhin kÃ¶nnen die Testdaten mit 
+Klick auf den Algorithmus klassifiziert werden. Die neue FarfÃ¼llung der Punkte zeigt die durch den 
+Algorithmus bestimmte KlassenzugehÃ¶rigkeit.
 
 Parameter und Verfahren 
-    - k-Means-Algorithmus: Anzahl der gewünschten Cluster
-    - Hierarchische Clusteranalyse: Fusionierungsverfahren, Anzahl der gewünschten Cluster
-    - k-Nächster-Nachbar-Verfahren: Anzahl der Nachbarpunkte
+    - k-Means-Algorithmus: Anzahl der gewÃ¼nschten Cluster
+    - Hierarchische Clusteranalyse: Fusionierungsverfahren, Anzahl der gewÃ¼nschten Cluster
+    - k-NÃ¤chster-Nachbar-Verfahren: Anzahl der Nachbarpunkte
 
 Heruntergeladene Datenpunkte werden als CSV-Datei ("data.csv") im Standerddownload-Ordner gespeichert.
 -----------------------------------------------------------------------------------------------------------------
